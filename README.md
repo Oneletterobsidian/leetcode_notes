@@ -1,4 +1,4 @@
-# one# LeetCode Daily Submit Auto Push · LeetCode 每日提交自动推送 GitHub
+# one# LeetCode Daily Submit Auto Push · LeetCode 每日提交自动推送到 GitHub
 
 > 自动化管理 LeetCode 题解（solutions），每天将本地更新的代码自动提交（commit）并推送（push）到 GitHub 仓库（repository）。
 
